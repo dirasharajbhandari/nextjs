@@ -1,0 +1,57 @@
+{
+    "user":[
+        {
+            "id" : 1,
+            "name" : "Rita Sharma"
+
+        },
+          {
+            "id" : 2,
+            "name" : "Hari Gopal"
+
+        },
+          {
+            "id" : 3,
+            "name" : "Raddha Gupta"
+
+        },
+         {
+            "id" : 4,
+            "name" : "Ram Hari"
+
+        },
+         {
+            "id" : 5,
+            "name" : "Rubina Shrestha"
+
+        }   
+    ],
+    
+ "post": [
+  {
+    "id": 1,
+    "title": "My First Post",
+    "content": "I am learning Next.js and React"
+  },
+  {
+    "id": 2,
+    "title": "UI Design",
+    "content": "Today I built a dashboard UI"
+  },
+   {
+    "id": 3,
+    "title": "Web Design",
+    "content": "Today I built a web page"
+  },
+   {
+    "id": 4,
+    "title": "Backend Developer",
+    "content": "Today I built a database connection"
+  },
+   {
+    "id": 5,
+    "title": "SEO",
+    "content": "Today I made the content on the top"
+  }
+]
+}
